@@ -1,7 +1,6 @@
 {
     "mcpServers": {
         "retrieval": {
-            // Path to uv (find by running which uv in terminal)
             "command": "/Users/{YOUR_USERNAME}/.local/bin/uv",
             "args": [
                 "--directory",
